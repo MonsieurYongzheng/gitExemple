@@ -5,7 +5,9 @@ remote = repo.create_remote(name='gitlab', url='git@github.com:Legilibre/Archeo-
 with open(os.path.join(rw_dir,'Newnew.tar'),'wb') as fp:
     repo.archive(fp)
 
-if and else
+if：
+ 
+else
 
 dev 100%
 
